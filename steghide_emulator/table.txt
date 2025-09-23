@@ -1,0 +1,2 @@
+Original Image Path | Stego Image Path | Secret Message
+assets/tabby.png | assets/secret_tabby.png | HI I AM BATMAN!
