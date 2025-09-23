@@ -5,5 +5,4 @@ C:\Users\Samyadeep\Desktop\DataHiding\steghide_emulator\assets\bruno.png | C:\Us
 C:\Users\Samyadeep\Desktop\DataHiding\steghide_emulator\assets\bruno.png | C:\Users\Samyadeep\Desktop\DataHiding\steghide_emulator\assets\secret_bruno.png | TopSecret123
 C:\Users\Samyadeep\Desktop\DataHiding\steghide_emulator\assets\bruno.png | C:\Users\Samyadeep\Desktop\DataHiding\steghide_emulator\assets\secret_bruno.png | secret
 C:\Users\Samyadeep\Desktop\DataHiding\steghide_emulator\assets\bruno.png | C:\Users\Samyadeep\Desktop\DataHiding\steghide_emulator\assets\secret_bruno.png | I am Vengence
-C:\Users\Samyadeep\Desktop\DataHiding\steghide_emulator\assets\bruno.png | C:\Users\Samyadeep\Desktop\DataHiding\steghide_emulator\assets\secret_bruno.png | TopSecret 123
 C:\Users\Samyadeep\Desktop\DataHiding\steghide_emulator\assets\bruno.png | C:\Users\Samyadeep\Desktop\DataHiding\steghide_emulator\assets\secret_bruno.png | secret
