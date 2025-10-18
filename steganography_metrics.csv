@@ -1,0 +1,2 @@
+Timestamp,Image_Name,Image_Width,Image_Height,Message_Length_Bytes,PSNR_dB,MSE,BER_Encrypted,BER_Decrypted,Modification_Rate_Percent,Capacity_Utilization_Percent
+2025-10-18 22:48:25,secret_bruno.png,2400,1355,24,97.49273709026184,1.1582615826158262e-05,0.0,0.0,0.001158261582615826,0.001968019680196802
