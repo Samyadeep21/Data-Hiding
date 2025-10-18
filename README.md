@@ -1,14 +1,14 @@
-**LSB Steganography Performance Analytics**
+# LSB Steganography Performance Analytics
 
-**Overview**
-A comprehensive data analytics and visualization platform for evaluating LSB (Least Significant Bit) steganography performance. This project combines cybersecurity techniques with data science methodologies to assess image-based data hiding quality, imperceptibility, and extraction accuracy.
+# Overview
+🚀 This project showcases comprehensive data analytics and visualization platform for evaluating LSB (Least Significant Bit) steganography performance. This project combines cybersecurity techniques with data science methodologies to assess image-based data hiding quality, imperceptibility, and extraction accuracy.
 
-**Data Hiding & Secure Communication**
+# Data Hiding & Secure Communication
 Embeds confidential data imperceptibly within images using LSB technique, ensuring covert 
 information transmission without visual detection.
 
 
-**🎯 Key Points Covered**
+# 🎯 Key Points Covered
 Data Hiding - Core steganography concept
 
 Confidential Data - Security/privacy aspect
@@ -21,7 +21,7 @@ Covert Transmission - Use case application
 
 Without Visual Detection - Imperceptibility goal
 
-**📋 Complete Use Cases Section Now Includes**
+# 📋 Complete Use Cases Section Now Includes
 ✅ Data Hiding & Secure Communication ← NEW!
 
 ✅ Cybersecurity
@@ -33,7 +33,7 @@ Without Visual Detection - Imperceptibility goal
 ✅ Academic Research
 
 
-**📈 Analytics Workflow**
+# 📈 Analytics Workflow
 ┌─────────────────────────────────────────────────────────┐
 │  1. DATA COLLECTION                                     │
 │     • Load original image                               │
@@ -73,7 +73,7 @@ Without Visual Detection - Imperceptibility goal
 │     • Timestamp all outputs for audit trail             │
 └─────────────────────────────────────────────────────────┘
 
-**Data Analytics Methods**
+# Data Analytics Methods
 PSNR (Peak Signal-to-Noise Ratio): Industry-standard image quality metric (>40 dB = Excellent)
 
 BER (Bit Error Rate): Measures extraction accuracy (0.000000 = Perfect)
@@ -86,7 +86,7 @@ Capacity Utilization: Optimize payload vs. quality trade-offs
 
 Visual Dashboard: Multi-panel analytics with heatmaps, bar charts, and quality zones
 
-**Key Skills Demonstrated**
+# Key Skills Demonstrated
 ✅ Quantitative analysis (PSNR, BER, MSE)
 ✅ Data visualization (matplotlib, seaborn)
 ✅ Statistical analysis (histogram comparison)
