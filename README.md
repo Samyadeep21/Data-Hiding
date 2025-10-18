@@ -115,5 +115,6 @@ Data Science (Metrics, Statistical Analysis, Visualization)
 Business Analytics (KPIs, Quality Assessment, Reporting)
 CSV metrics export for Excel/Power BI
 
-Author: M.Tech Student, CSE (Cybersecurity), NIT Agartala
+# ✍️Author
+Samyadeep Saha, M.Tech Student, CSE (Cybersecurity), NIT Agartala
 Date: October 2025
