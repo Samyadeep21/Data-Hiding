@@ -94,7 +94,7 @@ Visual Dashboard: Multi-panel analytics with heatmaps, bar charts, and quality z
 ✅ Python programming (NumPy, Pandas, OpenCV)
 ✅ CSV export for further analysis
 
-**📊 Sample Metrics Output**
+# 📊 Sample Metrics Output
 PSNR: 96.47 dB (EXCELLENT)
 MSE: 0.00888
 BER (Encrypted): 0.000000
@@ -103,12 +103,12 @@ Modified Pixels: 67 / 9,756,000 (0.0008%)
 Capacity Used: 0.008% (232 bits)
 Quality Grade: A+
 
-**📝 Citation**
+# 📝 Citation
 LSB Steganography Performance Analytics System
 NIT Agartala, Computer Science Engineering
 M.Tech Assignment, 2025
 
-**🤝 Acknowledgments**
+# 🤝 Acknowledgments
 This project demonstrates the intersection of:
 Cybersecurity (LSB Steganography,Data-Hiding, Encryption)
 Data Science (Metrics, Statistical Analysis, Visualization)
