@@ -103,6 +103,23 @@ Modified Pixels: 67 / 9,756,000 (0.0008%)
 Capacity Used: 0.008% (232 bits)
 Quality Grade: A+
 
+# Visualization Examples
+
+## 1. Full Analytical Dashboard
+![Final Dashboard](assets/final_dashboard.jpg)
+*End-to-end analytics panel showing image comparison, visual metrics (PSNR, BER), RGB histogram, and automated quality analysis.*
+
+---
+
+## 2. Clean Dashboard (Minimalist)
+![Clean Dashboard](assets/clean_dashboard.jpg)
+*A streamlined view with just the essentials – image pair, PSNR result, error analysis, and clear histogram overlays.*
+
+---
+
+## 3. Advanced Dashboard with All Metrics
+![Analysis Dashboard](assets/analysis_dashboard.jpg)
+*Comprehensive dashboard: shows original/stego images, difference map, detailed histograms, PSNR zones, BER chart, embedding capacity, and vital statistics.*
 # 📝 Citation
 LSB Steganography Performance Analytics System
 NIT Agartala, Computer Science Engineering
