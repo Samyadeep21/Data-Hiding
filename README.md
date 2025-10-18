@@ -106,19 +106,19 @@ Quality Grade: A+
 # Visualization Examples
 
 ## 1. Full Analytical Dashboard
-![Final Dashboard](final_dashboard.jpg)
+![Final Dashboard](final_dashboard.png)
 *End-to-end analytics panel showing image comparison, visual metrics (PSNR, BER), RGB histogram, and automated quality analysis.*
 
 ---
 
 ## 2. Clean Dashboard (Minimalist)
-![Clean Dashboard](clean_dashboard.jpg)
+![Clean Dashboard](clean_dashboard.png)
 *A streamlined view with just the essentials – image pair, PSNR result, error analysis, and clear histogram overlays.*
 
 ---
 
 ## 3. Advanced Dashboard with All Metrics
-![Analysis Dashboard](analysis_dashboard.jpg)
+![Analysis Dashboard](analysis_dashboard.png)
 *Comprehensive dashboard: shows original/stego images, difference map, detailed histograms, PSNR zones, BER chart, embedding capacity, and vital statistics.*
 # 📝 Citation
 LSB Steganography Performance Analytics System
